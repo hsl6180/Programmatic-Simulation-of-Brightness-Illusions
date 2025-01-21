@@ -2,15 +2,14 @@
 
 ## 项目概述
 针对机器测量灰度值相同但人眼感知亮度不同的情况，编写代码模拟这种视觉现象。
-![image](https://github.com/user-attachments/assets/71c3578d-6c70-4878-94a5-e5765331bc6b)
-
+![image](https://github.com/user-attachments/assets/72ef9257-f80a-471d-8873-fda0f149f737)
 
 ## 实验效果展示
 ### 亮度恒常性
-![image](https://github.com/user-attachments/assets/de839672-c0ea-4b36-bf78-f92205405ff6)
+![image](https://github.com/user-attachments/assets/7601c625-c9ed-40e1-87b1-0db4da4bb638)
 
 ### 边缘感知
-![image](https://github.com/user-attachments/assets/d4fcc748-e71d-4f0e-8536-261617aa15e6)
+![image](https://github.com/user-attachments/assets/50aa3e67-1501-4947-bcbb-a5081fcd85bc)
 
 
 ## 总体实验步骤
